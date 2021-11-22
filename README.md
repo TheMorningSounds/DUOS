@@ -1,2 +1,2 @@
 # DUOS
-CCB CopyWriter and Editor. It's DIPA.
+The Morning Sounds CopyWriter and Editor tools. It's DIPA.
